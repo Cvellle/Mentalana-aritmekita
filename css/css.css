@@ -480,6 +480,10 @@
         width:100vw;
     }
     
+    .copy br {
+        display: inline !important;
+    }
+    
 
 
 }
