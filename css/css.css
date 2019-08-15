@@ -1189,17 +1189,7 @@ h1 {
     margin-left: 8vw;
 }
 
+.copy br {
+    display: none;
+}
 
-
-
-/* .cards1 .row {
-    display:flex;
-    justify-content: center;
-    margin:auto;
-} */
-
-/* .cards2 .row {
-    display:flex;
-    justify-content: center;
-    margin:auto;
-} */
